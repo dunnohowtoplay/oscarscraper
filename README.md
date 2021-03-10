@@ -1,5 +1,5 @@
-# oscarscrapper
-Oscar winner scrapper using python selenium, this program scrap data from http://oscars.org/oscars/ceremonies
+# oscarscraper
+Oscar winner scraper using python selenium, this program scrape data from http://oscars.org/oscars/ceremonies
 
 
 # Setup
