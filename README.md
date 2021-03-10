@@ -9,7 +9,7 @@ Oscar winner scrapper using python selenium, this program scrap data from http:/
 $ cd path/to/this/project
 ```
 
-2. Create virtual environtment and activate the virtualenv
+2. Create virtualenv and activate the virtualenv
 ```
 $ python -m venv .env
 
